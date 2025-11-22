@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/israelrr01/israelrr01/output/snake.svg" alt="Snake animation" />
-
-###
